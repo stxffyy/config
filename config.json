@@ -1,0 +1,27 @@
+{
+    "repositories": [
+        {
+            "id": 1,
+            "url": "https://github.com/stepancar/arui-feather.git",
+            "supporters": [
+                {
+                    "userId": "sadasdasd"
+                }
+            ]
+        }
+    ],
+    "rules": [
+        {
+            "id": 1,
+            "title": "noNewLineAtTheEnd",
+            "description:": "не должно быть пустых строк в файлах",
+            "ruleImplementation": "./src/noNewLinesAtTheEnd"
+        },
+        {
+            "id": 1,
+            "title": "camelCase",
+            "description:": "не должно быть пустых строк в файлах",
+            "ruleImplementation": "./src/noNewLinesAtTheEnd"
+        }
+    ]
+}
