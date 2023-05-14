@@ -2,7 +2,7 @@
     "repositories": [
         {
             "id": 1,
-            "url": "https://github.com/stepancar/arui-feather.git",
+            "url": "https://github.com/stxffyy/example3",
             "supporters": [
                 {
                     "userId": "sadasdasd"
@@ -14,14 +14,9 @@
         {
             "id": 1,
             "title": "noNewLineAtTheEnd",
-            "description:": "не должно быть пустых строк в файлах",
-            "ruleImplementation": "./src/noNewLinesAtTheEnd"
-        },
-        {
-            "id": 1,
-            "title": "camelCase",
-            "description:": "не должно быть пустых строк в файлах",
-            "ruleImplementation": "./src/noNewLinesAtTheEnd"
+            "description:": "Отсутствует перенос строки в конце файла",
+            "ruleImplementation": "./rules/noNewLineAtTheEnd.js",
+            "pattern": "*(*.js|*.html|*.json|*.css)"
         }
     ]
 }
