@@ -12,8 +12,8 @@
         },
         {
             "id": 1,
-            "title": "arui-feather.git",
-            "url": "https://github.com/stepancar/arui-feather.git",
+            "title": "tech_debt",
+            "url": "https://github.com/stxffyy/tech_debt",
             "supporters": [
                 {
                     "userId": "sadasdasd"
@@ -25,7 +25,7 @@
         {
             "id": 1,
             "title": "noNewLineAtTheEnd",
-            "description:": "Отсутствует перенос строки в конце файла",
+            "description": "В файле отсутствует перенос строки",
             "ruleImplementation": "./rules/noNewLineAtTheEnd.js",
             "pattern": "*(*.js|*.html|*.json|*.css)"
         }
