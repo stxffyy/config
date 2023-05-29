@@ -1,9 +1,9 @@
 {
     "repositories": [
         {
-            "id": 1,
-            "title": "test",
-            "url": "https://github.com/stxffyy/online_store",
+            "id": 0,
+            "title": "smarthome",
+            "url": "https://github.com/stxffyy/smarthome",
             "supporters": [
                 {
                     "userId": "sadasdasd"
