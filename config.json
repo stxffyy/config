@@ -3,7 +3,17 @@
         {
             "id": 0,
             "title": "smarthome",
-            "url": "https://github.com/stxffyy/smarthome",
+            "url": "https://github.com/stxffyy/logs-app-master",
+            "supporters": [
+                {
+                    "userId": "sadasdasd"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "title": "smarthome",
+            "url": "https://github.com/stxffyy/example3",
             "supporters": [
                 {
                     "userId": "sadasdasd"
