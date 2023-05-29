@@ -2,7 +2,7 @@
     "repositories": [
         {
             "id": 0,
-            "title": "smarthome",
+            "title": "logs-app-master",
             "url": "https://github.com/stxffyy/logs-app-master",
             "supporters": [
                 {
@@ -12,7 +12,7 @@
         },
         {
             "id": 1,
-            "title": "smarthome",
+            "title": "example3",
             "url": "https://github.com/stxffyy/example3",
             "supporters": [
                 {
