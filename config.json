@@ -12,11 +12,6 @@
         },
         {
             "id": 2,
-            "title": "smarthome",
-            "url": "https://github.com/stxffyy/smarthome"
-        },
-        {
-            "id": 3,
             "title": "lottie-web",
             "url": "https://github.com/airbnb/lottie-web"
         }
