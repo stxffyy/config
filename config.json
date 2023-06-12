@@ -4,6 +4,16 @@
             "id": 0,
             "title": "lottie-web",
             "url": "https://github.com/airbnb/lottie-web"
+        },
+         {
+            "id": 1,
+            "title": "logs-app-master",
+            "url": "https://github.com/stxffyy/logs-app-master"
+        },
+        {
+            "id": 2,
+            "title": "smarthome",
+            "url": "https://github.com/stxffyy/smarthome"
         }
     ],
     "rules": [
