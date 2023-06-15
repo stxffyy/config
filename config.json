@@ -2,7 +2,7 @@
     "repositories": [
          {
             "id": 0,
-            "url": "https://github.com/airbnb/lottie-web"
+            "url": "https://github.com/stxffyy/online-store"
         },
          {
             "id": 1,
@@ -15,10 +15,6 @@
         {
             "id": 3,
             "url": "https://github.com/stxffyy/social-network"
-        },
-        {
-            "id": 4,
-            "url": "https://github.com/stxffyy/online-store"
         }
     ],
     "rules": [
