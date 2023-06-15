@@ -1,5 +1,6 @@
 function noNewLineAtTheEnd(code) {
-    return code.endsWith('\n')
-  }
-  
-module.exports = noNewLineAtTheEnd;
+  const lines = code.split('\n');
+  return { isRuleCompleted: code.endsWith('\n'), lineNumber: lines.length }
+}
+
+module.exports = noNewLineAtTheEnd
