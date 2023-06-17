@@ -14,7 +14,11 @@
         },
         {
             "id": 3,
-            "url": "https://github.com/stxffyy/social-network"
+            "url": "https://github.com/airbnb/lottie-web"
+        },
+        {
+            "id": 4,
+            "url": "https://github.com/airbnb/example3"
         }
     ],
     "rules": [
